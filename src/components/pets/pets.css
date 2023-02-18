@@ -1,0 +1,15 @@
+.petsWrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(219, 140, 140);
+    gap: 10px;
+}
+.pet{
+    width: 13%;
+    border: 1px solid green;
+    background: #000;
+    color: white;
+    padding: 10px;
+}
